@@ -45,4 +45,4 @@ This dashboard showcases **data storytelling**, **market insight generation**, a
 ---
 
 ## 📎 Files
-- Dashboard Screenshot: [`CarSalesPerformance.png`](./55e660b5-eac6-4062-82da-e2ecfad9b45b.png](https://github.com/razeenph/pm-portfolio-razeen/blob/81bdc038e76a8222ab408526f9d124202daa76c4/Tableau%20Dashboard-%20car-sales-performance/car%20sales%20-%20tableau.png))
+- Dashboard Screenshot: [`CarSalesPerformance.png`](https://github.com/razeenph/pm-portfolio-razeen/blob/81bdc038e76a8222ab408526f9d124202daa76c4/Tableau%20Dashboard-%20car-sales-performance/car%20sales%20-%20tableau.png)
