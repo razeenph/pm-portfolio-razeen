@@ -2,11 +2,11 @@
 My Product Management Portfolio — PRDs, roadmaps, Jira boards, UX wireframes, dashboards
 # 🚀 Razeen P H – Product Management Portfolio
 
-**MBA Candidate (IIM Kashipur 2024-26) | Ex-Amazon Quality Analyst | Aspiring Associate Product Manager**
+**MBA Candidate (IIM Kashipur 2024-26) | Ex-Amazon Quality Analyst | Aspiring Product Manager**
 
 Welcome to my Product Management Portfolio!  
 This space showcases my work in **product strategy, agile execution, UX thinking, and analytics**.  
-All projects are non-confidential, created to demonstrate practical PM skills relevant to roles like **IBM Associate Product Manager**.
+All projects are non-confidential, created to demonstrate practical PM skills
 
 ---
 
