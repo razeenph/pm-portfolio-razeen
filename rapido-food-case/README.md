@@ -1,6 +1,5 @@
 # 🍔 Rapido Food Delivery – Product Case
 
-
 **Goal:** Transform Rapido's bike-hailing ecosystem into a food delivery service.  
 **Artifacts in this folder:**  
 - PRD (Product Requirements Document)  
