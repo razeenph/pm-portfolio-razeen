@@ -19,7 +19,8 @@ All projects are non-confidential, created to demonstrate practical PM skills re
 | [PM Analytics & SQL Queries](./dashboard-analytics) | Funnel & retention dashboards + SQL snippets | .pbix · PNG · queries.sql |
 | [Rapido Food Delivery – Jira Agile Simulation](./jira-artifacts) | Simulated Agile backlog, sprints, burndown & velocity charts | Jira · Agile · Scrum · Sprint Planning |
 | [UX Wireframes – Rapido Food MVP](./ux-wireframes) | Low-fidelity app screens (Home, Tracking, Feedback) | Figma · UX Design · User Empathy |
-
+| [Spotify Streaming Dashboard – Power BI](./powerbi-spotify) | Analyzed music streaming trends, audience behavior, and artist KPIs | Power BI · Data Analytics · Product Insights |
+| [Amazon Last-Mile Optimization – Tableau](./tableau-amazon-delivery) | Analyzed logistics KPIs and identified efficiency levers | Tableau · Logistics Analytics · Customer Experience |
 
 ---
 
