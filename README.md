@@ -22,7 +22,7 @@ All projects are non-confidential, created to demonstrate practical PM skills re
 | [UX Wireframes – Rapido Food MVP](./ux-wireframes) | Low-fidelity app screens (Home, Tracking, Feedback) | Figma · UX Design · User Empathy |
 | [Spotify Streaming Dashboard – Power BI](./powerbi-spotify) | Analyzed music streaming trends, audience behavior, and artist KPIs | Power BI · Data Analytics · Product Insights |
 | [Amazon Last-Mile Optimization – Tableau](./tableau-amazon-delivery) | Analyzed logistics KPIs and identified efficiency levers | Tableau · Logistics Analytics · Customer Experience |
-| [Car Sales Performance Dashboard – Power BI](./car-sales-performance) | Visualized sales performance, demographics, and market share across auto brands (2022–2023) | Power BI · Market Analytics · Business Insights |
+| [Car Sales Performance Dashboard – Tableau](./car-sales-performance) | Visualized sales performance, demographics, and market share across auto brands (2022–2023) | Tableau · Market Analytics · Business Insights |
 
 
 ---
