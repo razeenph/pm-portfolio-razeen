@@ -1,6 +1,6 @@
-# 🚗 Power BI Dashboard – Car Sales Performance (2022–2023)
+# 🚗 Tableau Dashboard – Car Sales Performance (2022–2023)
 
-**Tool:** Microsoft Power BI  
+**Tool:** TABLEAU  
 **Author:** Razeen P H  
 **Dataset:** Global Car Sales (Sample Data)  
 
