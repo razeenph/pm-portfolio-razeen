@@ -26,8 +26,6 @@ All projects are non-confidential, created to demonstrate practical PM skills re
 | [Car Sales Performance Dashboard – Tableau](./car-sales-performance) | Visualized sales performance, demographics, and market share across auto brands (2022–2023) | Tableau · Market Analytics · Business Insights |
 | [ClimateX – Global Expansion Strategy (PwC Challenge 7.0)](./business-strategy/ClimateX-Global-expansion-strategy.pdf) | Designed a 5-year global market entry and financial roadmap for ClimateX, prioritizing India as the first international expansion market | Market Entry · Financial Modelling · Sustainability Strategy |
 | [Go-To-Market Strategy – Philips Robot Vacuum Cleaner](./business-strategy/GTM-Strategy-for-Robot-Vacuum-Cleaner.pdf) | Developed GTM plan for Philips' robotic vacuum cleaner in India, including segmentation, pricing, and launch roadmap | GTM · Product Marketing · Consumer Insights |
-| [Quantum Computing Market Research – Tech Mahindra](./business-strategy/Market-research.pdf) | Analyzed global quantum computing landscape and Tech Mahindra’s positioning; proposed strategic focus on AI, ML, and cybersecurity use cases | Market Research · Emerging Tech · Consulting |
-| [Reebok Market Strategy and Consumer Insights](./business-strategy/Reebok-market-strategy.pdf) | Evaluated Reebok’s marketing mix, audience segmentation, and brand positioning; proposed eco-friendly and influencer-driven initiatives | Brand Strategy · Consumer Psychology · Marketing Analytics |
 
 
 ---
