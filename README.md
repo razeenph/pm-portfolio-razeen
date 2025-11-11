@@ -15,15 +15,15 @@ All projects are non-confidential, created to demonstrate practical PM skills re
 | Project | Description | Artifacts |
 |----------|--------------|------------|
 | [Rapido Food Delivery Case]( rapido-food-delivery-case) | A full PM case converting bike-hailing → food delivery | PRD · Roadmap · Figma Wireframes · Power BI Dashboard · Jira Screens |
-| [Jira Agile Simulation – Rapido Food MVP](./20jira-artifacts) | Demonstrated Agile sprint execution for Rapido Food MVP, including backlog creation, sprint planning, burndown and velocity tracking | Jira · Agile · Sprint Planning · Scrum Metrics |
+| [Jira Agile Simulation – Rapido Food MVP](jira-artifacts) | Demonstrated Agile sprint execution for Rapido Food MVP, including backlog creation, sprint planning, burndown and velocity tracking | Jira · Agile · Sprint Planning · Scrum Metrics |
 | [SQL & Product Metrics](./sql/sql) | Key PM metrics (DAU, retention, conversion, delivery time, revenue) written in SQL | SQL · Data Literacy · Product Analytics |
 | [Rapido Business & Food Delivery Strategy](./rapido-strategy) | End-to-end strategy & product expansion analysis using consulting frameworks | Product Strategy · Consulting · Market Analysis |
 | [UX Wireframes – Rapido Food MVP](./ux-wireframes) | Low-fidelity app screens (Home, Tracking, Feedback) | Figma · UX Design · User Empathy |
-| [Spotify Streaming Dashboard – Power BI](./powerbi-spotify) | Analyzed music streaming trends, audience behavior, and artist KPIs | Power BI · Data Analytics · Product Insights |
+| [Spotify Streaming Dashboard – Power BI](https://github.com/razeenph/pm-portfolio-razeen/blob/87459de23665dc745a03f0eefa768c147ccf8150/Power%20BI%20Dashboard%20%E2%80%93%20Spotify%20Streaming%20Analysis/Powerbi.pdf) | Analyzed music streaming trends, audience behavior, and artist KPIs | Power BI · Data Analytics · Product Insights |
 | [Amazon Last-Mile Optimization – Tableau](./tableau-amazon-delivery) | Analyzed logistics KPIs and identified efficiency levers | Tableau · Logistics Analytics · Customer Experience |
-| [Car Sales Performance Dashboard – Tableau](./Tableau-dashboard-car-sales-performance) | Visualized sales performance, demographics, and market share across auto brands (2022–2023) | Tableau · Market Analytics · Business Insights |
-| [ClimateX – Global Expansion Strategy (PwC Challenge 7.0)](./Market-strategy/ClimateX-Global-expansion-strategy.pdf) | Designed a 5-year global market entry and financial roadmap for ClimateX, prioritizing India as the first international expansion market | Market Entry · Financial Modelling · Sustainability Strategy |
-| [Go-To-Market Strategy – Philips Robot Vacuum Cleaner](./Market-strategy/GTM-Strategy-for-Robot-Vacuum-Cleaner.pdf) | Developed GTM plan for Philips' robotic vacuum cleaner in India, including segmentation, pricing, and launch roadmap | GTM · Product Marketing · Consumer Insights |
+| [Car Sales Performance Dashboard – Tableau](./Tableau-Dashboard-car-sales-performance) | Visualized sales performance, demographics, and market share across auto brands (2022–2023) | Tableau · Market Analytics · Business Insights |
+| [ClimateX – Global Expansion Strategy (PwC Challenge 7.0)]([./Market-strategy/Climate-X-Global-expansion-strategy.pdf](https://github.com/razeenph/pm-portfolio-razeen/blob/87459de23665dc745a03f0eefa768c147ccf8150/Market%20Strategy/Climate%20X%20-%20Global%20expansion%20strategy.pdf)) | Designed a 5-year global market entry and financial roadmap for ClimateX, prioritizing India as the first international expansion market | Market Entry · Financial Modelling · Sustainability Strategy |
+| [Go-To-Market Strategy – Philips Robot Vacuum Cleaner](https://github.com/razeenph/pm-portfolio-razeen/blob/87459de23665dc745a03f0eefa768c147ccf8150/Market%20Strategy/GTM%20Strategy%20for%20Robot%20Vacuum%20Cleaner.pdf) | Developed GTM plan for Philips' robotic vacuum cleaner in India, including segmentation, pricing, and launch roadmap | GTM · Product Marketing · Consumer Insights |
 
 
 ---
