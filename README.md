@@ -29,10 +29,13 @@ All projects are non-confidential, created to demonstrate practical PM skills re
 ---
 
 ## 🧠 Skills
-Product Roadmapping · PRD Writing · Agile (Scrum/Jira) · Figma · Power BI · SQL · UX Wireframing · Data-Driven Decision Making
+Product Roadmapping · PRD Writing · Agile (Scrum/Jira) · Figma · Power BI · Tableau · SQL · UX Wireframing · Data-Driven Decision Making · Market Strategy · A/B Testing
 
 ---
 
 ## 📫 Contact
 - **Email:** razeen.mba24282@iimkashipur.ac.in  
-- **LinkedIn:** [linkedin.com/in/razeen-p-h](https://www.linkedin.com/in/razeen-p-h)  
+🔗 **LinkedIn:** [linkedin.com/in/razeen-p-h](https://www.linkedin.com/in/razeen-p-h)  
+📂 **Portfolio:** [GitHub Repo](https://github.com/razeenph/pm-portfolio-razeen)
+
+> 💡 *This portfolio represents a collection of MBA and independent projects demonstrating end-to-end product management capabilities — from strategy and design to agile delivery and data analytics.*
