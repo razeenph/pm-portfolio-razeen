@@ -1,1 +1,24 @@
 
+# Gig Economy Credit Scoring – Fintech Simulation
+
+## Overview
+GigScore Arena is a fintech simulation platform designed to evaluate creditworthiness of gig economy workers using alternative data.
+
+## Problem
+Gig workers face financial exclusion because traditional credit scoring models depend on fixed salaries and credit history.
+
+## Solution
+Develop an alternative credit scoring framework using gig platform behavioral data.
+
+Key indicators used:
+- Income stability
+- Customer ratings
+- Completion rate
+- Platform tenure
+- Activity patterns
+
+## Artifacts
+- Credit scoring framework
+- Platform economics analysis
+- Data architecture
+- Simulation design
